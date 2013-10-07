@@ -1,0 +1,8 @@
+**************************************
+Log for ss
+**************************************
+rajiv on system_no:- 90 is facing following error:-
+-----------------------------------
+ Error occured in code :-
+srcfile.c:1: error: expected =, ,, ;, asm or __attribute__ at end of input
+-----------------------------------
